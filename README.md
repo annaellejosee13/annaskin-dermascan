@@ -1,6 +1,6 @@
-# vuejs
+# AnnaSkin
 
-This template should help get you started developing with Vue 3 in Vite.
+# AnnaSkin Dermatology.ia est une application mobile qui aide les utilisateurs à identifier les maladies de la peau. 
 
 ## Recommended IDE Setup
 
