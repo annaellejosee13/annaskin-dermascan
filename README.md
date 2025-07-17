@@ -1,6 +1,6 @@
 # AnnaSkin
 
-# AnnaSkin Dermatology.ia est une application mobile qui aide les utilisateurs à identifier les maladies de la peau. 
+# AnnaSkin Dermatology scan est une application mobile qui aide les utilisateurs à identifier les maladies de la peau. 
 
 ## Recommended IDE Setup
 
