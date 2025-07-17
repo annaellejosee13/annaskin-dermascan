@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .skin-tone-picker {
+    background: linear-gradient(to right, #FFDBAC, #F1C27D, #E0AC69, #C68642, #8D5524);
+  }
+}
